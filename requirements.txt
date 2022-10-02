@@ -1,0 +1,6 @@
+fastapi
+pydantic
+uvicorn
+facebook-scraper
+pymongo
+pytest
